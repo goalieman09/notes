@@ -1,0 +1,75 @@
+Binary ( 128 - 64 - 32 - 16 - 8 - 4 - 2 - 1 ) : 01101010 
+Decimal ( everyday life ): 106  
+Hex ( Hexadecimal ) ( Take decimal and divide by 16 until you get a remainder, amount of times you can divide the decimal is on the left, the remainder is on the right ) : 6A
+ASCII ( American Standard Code for Information Interchange ) character : j
+
+
+0 is off 
+1 is on 
+
+Binary : 01001000 
+Decimal : 72 
+Hex : 48 
+Input : Output 
+  0   |  False 
+  1   |  True 
+And (Conjuntion) (Both have to be 1) (If one person says 0 or no the it is false)
+Or  (One or the other) (At least one 1) (Only false if all are 0)
+Is (Identify) (Is "a" true or false) 
+Not (Negation) (Is "a" not true, the opposite)
+
+
+OS 
+File Systems: 1 
+Shell 
+Kernal (Kind of like the project manager, controls processes) 
+        Bios 
+Hardware (Apple microphone issue) 
+
+                                                     NOTES
+-------------------------------------------------------------------------------------------------------------------
+ifconfig - Displays the current configuration for a network interface when no optional parameters are supplied.
+ip – Address to a network interface and or configure network interface parameters on Linux operating systems.
+traceroute - Track in real-time pathway taken by a packet on an IP network from a source to destination. 
+tracepath - Trace the path from the orgin to destination.
+ping - Troubleshoot connectivity, reachability, nmae the resolution. 
+netstat - Generates displays that show network status and protocol statostics. 
+ss - Provides detailed information about network sockets and connections. 
+dig - Flexible tool for interrogating DNS server names. 
+nslookup - Queries internet domain name servers in two modes.
+route - View and manipulate the IP routing table in Unix-like and Microsoft operating systems and also in IBM OS/2 and ReactOS.
+host - Look up a variety of information available through the DNS. 
+arp - Display the Ip address to MAC address mappings that a system has built so that it doesn't have to fetch the same information repeatedly, discover and display details about systems on your network. 
+iwconfig - Display and change the parameters of the network interface which are specific to the wireless connection. 
+hostname - Name of the computer will be displayed. 
+curl - Command line tool that enables data exchange between device and a server through a terminal. 
+wget - Retrieve or download files from the internet.
+mtr - Combines traceroute and ping, common for testing internet speed. 
+whois - Tries to reach ARPANET host internic.net where it examines a user-name database to obtain information. 
+ifplugstatus - Check the status of Ethernet network interfaces and determine whether a cable is plugged into a specific interface. 
+iftop - Moniters network traffic and displays a table of current bandwidth usage. 
+tcpdump - Capture and analyze network traffic.
+IP address (IPv4) - Internet Protocall 4, the fourth version. 
+Subnet Masks - A 32 but number created by setting host bits to all 0s and setting netowrk bits to all 1s.
+Gateway - A network node used in telecommunications that connect two networks with different transmission protocals together.
+DNS - Name Domain System, turns NDS into IP addresses wich allow browsers to get websites and other resources.
+What is a network switch? - Forwards data packets between devices, switches send packets directly to devices rather than sending thek to networks like a router does.
+What is a network router? - A network router connects two or more packet switched networks.
+What are access points? - A networking device that allows wireless-capable devices to connect to a wired network.
+MAC address - A unique 12-character alphanumeric attribute that is used to identify individual electronic devices on a network.
+What are ports? - Virtual places within a operating system where network connets start and end. 
+Types of networks (WAN,LAN,PAN,MAN,VPN):
+	WAN (Wide area network) - Technology that connects your offices, data centers, cloud applications, and soud storage together.
+	LAN (Local area network) - Collection of devices in one physical location. 
+	PAN (Personal area network) - Connects electronic devices within a users immediate area.
+	MAN (metropolitan area network) - A network that is larger then a single building local area network but is located in the a single geographic area that is smaller than a wide area network.
+	VPN (Virtual private network) - Encrypted connection over the internet form a device to a network. 
+
+     
+
+
+
+
+
+
+
