@@ -19,12 +19,14 @@ Is (Identify) (Is "a" true or false)
 Not (Negation) (Is "a" not true, the opposite)
 
 
-OS 
-File Systems: 1 
-Shell 
-Kernal (Kind of like the project manager, controls processes) 
-        Bios 
-Hardware (Apple microphone issue) 
+Operating System Layers:
+User Interface 
+	File Managment System 
+			Input / Output 
+				Memory Management 
+						Kernel
+
+
 
                                                      NOTES
 -------------------------------------------------------------------------------------------------------------------
